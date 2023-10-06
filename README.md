@@ -1,4 +1,4 @@
-## git bash command GitHub
+## git bash or CLI command for GitHub Repository
 
 **if your question is that**
 
