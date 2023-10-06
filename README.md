@@ -26,7 +26,7 @@
    * [x] and continue code push code this branch(name: newBranch3 )
 
    * [x] how to rename an existing branch in git and confirm that
-   * [x] But showing old git repo. So, now delete the branch with the old and again all
+   * [x] But showing old repo with new named repo after rename. So, now delete the branch with the old and again all
 
 
 
