@@ -2,28 +2,28 @@
 
 **if your question is that**
 
-i need some terminal command with serially with small text note:
+    [x] i need some terminal command with serially with small text note:
 
-I am using  git bash terminal.
+    [x] I am using  git bash terminal.
 
-i am working on git master branch.
-i want make master to main branch.
-i need to push code this main branch.
+    [x] i am working on git master branch.
+    [x] i want make master to main branch.
+    [x] i need to push code this main branch.
 
-i need to create a new branch(name: newBranch1 ).
-i need to push code this new branch(newBranch1).
+    [x] i need to create a new branch(name: newBranch1 ).
+    [x] i need to push code this new branch(newBranch1).
 
-again i need to create a new branch(name: newBranch2 )
-i need to push code this new branch(newBranch2)
+    [x] again i need to create a new branch(name: newBranch2 )
+    [x] i need to push code this new branch(newBranch2)
 
-again i need to create a new branch(name: newBranch3 )
-i need to push code this new branch(newBranch3)
+    [x] again i need to create a new branch(name: newBranch3 )
+    [x] i need to push code this new branch(newBranch3)
 
-and now i need go previous branch like(name: newBranch1 )
-and need to push code this branch(newBranch1)
+    [x] and now i need go previous branch like(name: newBranch1 )
+    [x] and need to push code this branch(newBranch1)
 
-after that again need to go branch(name: newBranch3 )
-and continue code push code this branch(name: newBranch3 )
+    [x] after that again need to go branch(name: newBranch3 )
+    [x] and continue code push code this branch(name: newBranch3 )
 
 
 
