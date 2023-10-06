@@ -1,6 +1,6 @@
 ## git bash or CLI command for GitHub Repository
 
-**if your question is that**
+**If your questions are there:**
 
    * [x] i need some terminal command with serially with small text note:
 
