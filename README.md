@@ -25,6 +25,9 @@
    * [x] after that again need to go branch(name: newBranch3 )
    * [x] and continue code push code this branch(name: newBranch3 )
 
+   * [x] how to rename an existing branch in git and confirm that
+   * [x] But showing old git repo. So, now delete the branch with the old and again all
+
 
 
 
@@ -57,6 +60,15 @@ git push origin newBranch1
 git checkout newBranch3
 # Make changes and commits as needed
 git push origin newBranch3
+
+# Rename Old/existing branch in git
+git branch -m old-name new-name
+
+# And now delete the branch with the old 
+git push origin --delete old-name
+
+# To ensure that the rename was successful OR check all repo
+git branch -a
 
 
 ```
